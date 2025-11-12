@@ -1,1 +1,6 @@
-templates/.gitkeep
+git clone https://github.com/Said562/Jinja.git
+cd Jinja
+mv myfolder templates
+git add .
+git commit -m "Rename folder to templates"
+git push origin main
